@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "https://sid20s.github.io/csb-dnveh9/static/css/main.721f9b8f.chunk.css",
+    "main.js": "https://sid20s.github.io/csb-dnveh9/static/js/main.f4482d5a.chunk.js",
+    "main.js.map": "https://sid20s.github.io/csb-dnveh9/static/js/main.f4482d5a.chunk.js.map",
+    "runtime-main.js": "https://sid20s.github.io/csb-dnveh9/static/js/runtime-main.128345d4.js",
+    "runtime-main.js.map": "https://sid20s.github.io/csb-dnveh9/static/js/runtime-main.128345d4.js.map",
+    "static/js/2.fea30b6c.chunk.js": "https://sid20s.github.io/csb-dnveh9/static/js/2.fea30b6c.chunk.js",
+    "static/js/2.fea30b6c.chunk.js.map": "https://sid20s.github.io/csb-dnveh9/static/js/2.fea30b6c.chunk.js.map",
+    "index.html": "https://sid20s.github.io/csb-dnveh9/index.html",
+    "precache-manifest.baef95a37339a43837da514ea2a0110e.js": "https://sid20s.github.io/csb-dnveh9/precache-manifest.baef95a37339a43837da514ea2a0110e.js",
+    "service-worker.js": "https://sid20s.github.io/csb-dnveh9/service-worker.js",
+    "static/css/main.721f9b8f.chunk.css.map": "https://sid20s.github.io/csb-dnveh9/static/css/main.721f9b8f.chunk.css.map",
+    "static/js/2.fea30b6c.chunk.js.LICENSE.txt": "https://sid20s.github.io/csb-dnveh9/static/js/2.fea30b6c.chunk.js.LICENSE.txt",
+    "static/media/Covid19Tracker.png": "https://sid20s.github.io/csb-dnveh9/static/media/Covid19Tracker.d01dd44d.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.128345d4.js",
+    "static/js/2.fea30b6c.chunk.js",
+    "static/css/main.721f9b8f.chunk.css",
+    "static/js/main.f4482d5a.chunk.js"
+  ]
+}
